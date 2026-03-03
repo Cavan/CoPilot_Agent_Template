@@ -1,9 +1,11 @@
 # Dependencies
 node_modules/
 
-# Docusaurus build output
-website/build/
-website/.docusaurus/
+# Python virtual environment
+.venv/
+
+# MkDocs build output
+site/
 
 # Environment files
 .env

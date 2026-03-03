@@ -11,8 +11,8 @@ A curated list of official documentation, tutorials, and community resources for
 3. [MCP (Model Context Protocol)](#mcp-model-context-protocol)
 4. [Prompt Engineering](#prompt-engineering)
 5. [Agent Skills](#agent-skills)
-6. [VS Code Extensions & Tools](#vs-code-extensions--tools)
-7. [Community & Learning](#community--learning)
+6. [VS Code Extensions & Tools](#vs-code-extensions-tools)
+7. [Community & Learning](#community-learning)
 
 ---
 
